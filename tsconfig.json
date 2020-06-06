@@ -1,3 +1,4 @@
+// https://deno.land/manual/getting_started/typescript
 {
   "compilerOptions": {
     "lib": ["esnext", "dom"],

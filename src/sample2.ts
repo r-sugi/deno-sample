@@ -1,3 +1,3 @@
-import { hoge } from './sample1.ts';
+import { hoge } from "./sample1.ts";
 
-console.log(hoge)
+console.log(hoge);
